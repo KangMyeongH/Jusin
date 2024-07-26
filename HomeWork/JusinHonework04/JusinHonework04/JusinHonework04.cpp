@@ -2,11 +2,11 @@
 
 using namespace std;
 
-void Shuffle(int* _iDst, int* _iSrc)
+void Shuffle(int* _pDst, int* _pSrc)
 {
-    int iTemp = *_iDst;
-    *_iDst = *_iSrc;
-    *_iSrc = iTemp;
+    int iTemp = *_pDst;
+    *_pDst = *_pSrc;
+    *_pSrc = iTemp;
 }
 
 int main()
