@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void Render(const int(*)[5],int);
+void ArrayRender(const int(*)[5],int);
 
 void Lotto();
 void SetLottoNumber(int(*)[6],int);
@@ -11,14 +11,18 @@ void SetLottoNumber(int(*)[6],int);
 void SetBaseBallNumber(int*);
 void BaseBallGame();
 
+void RotateArray();
+void CopyArray(int(*)[5], int(*)[5]);
+
+void Menu();
+
 int main()
 {
-    Lotto();
-    
+    Menu();
     return 0;
 }
 
-void Render(const int (*pArray)[5],int iSize)
+void ArrayRender(const int (*pArray)[5],int iSize)
 {
     for(int i = 0; i < iSize; i++)
     {
@@ -28,10 +32,7 @@ void Render(const int (*pArray)[5],int iSize)
         }
         cout << '\n';
     }
-    system("pause");
-    system("cls");
 }
-
 
 /*
 - 배열을 이용하여 1~45 사이의 숫자 중 무작위로 6개씩 총 5회 출력하기
@@ -51,7 +52,7 @@ void Lotto()
         }
         cout << "|\n";
     }
-    
+    system("pause");
 }
 
 void SetLottoNumber(int(*pLottoNumber)[6], int iSize)
@@ -154,17 +155,115 @@ void BaseBallGame()
         cin >> iInputNumber[0] >> iInputNumber[1] >> iInputNumber[2];
         for(int j = 0; j < 3; j++)
         {
-            if(iBaseballNumber[j] == iInputNumber[j]) iStrike++;
-            else
+            for(int k = 0; k < 3; k++)
             {
-                for(int k = 0; k < 3; k++)
+                if(iBaseballNumber[j] == iInputNumber[k])
                 {
-                    if(iBaseballNumber[j] == iInputNumber[k]) iBall++;
+                    if(j == k) iStrike++;
+                    else iBall++;
                 }
             }
+        }        
+        cout << "스트라이크 : " << iStrike << " 볼 : " << iBall << '\n';
+
+        if(iStrike == 3)
+        {
+            cout << "승리\n";
+            break;
+        }
+        
+        else if(i == 8)
+        {
+            cout << "패배\n";
+            break;
+        }
+
+        else
+        {
+            iStrike = 0;
+            iBall = 0;
         }
     }
 
-    
+    system("pause");
 }
 
+//2차원 배열을 이용하여 90도 시계 방향으로 4회전 출력하기
+void RotateArray()
+{
+    int iArray[5][5] = {{1,2,3,4,5},
+                         {6,7,8,9,10},
+                         {11,12,13,14,15},
+                         {16,17,18,19,20},
+                         {21,22,23,24,25}};
+
+    int iTempArray[5][5];
+    cout << "원본\n";
+    cout << "=============================================\n";
+    ArrayRender(iArray,5);
+
+    for(int i = 0; i < 4; i++)
+    {
+        cout << i + 1 << "번째 90도 시계방향 회전\n";
+        cout << "=============================================\n";
+        CopyArray(iTempArray,iArray);
+    
+        for (int j = 0; j < 5; j++)
+        {
+            for (int k = 0; k < 5; k++)
+            {
+                iArray[k][4 - j] = iTempArray[j][k];
+            }
+        }
+        ArrayRender(iArray,5);
+        cout << "=============================================\n";
+    }
+
+    system("pause");
+}
+
+void CopyArray(int(*pTemp)[5], int(*pOriginal)[5])
+{
+    for (int i = 0; i < 5; i++)
+    {
+        for (int j = 0; j < 5; j++)
+        {
+            pTemp[i][j] = pOriginal[i][j];
+        }
+    }
+}
+
+void Menu()
+{
+    int iInput = 0;
+    while(true)
+    {
+        system("cls");
+        cout << "1. 로또\n";
+        cout << "2. 야구게임\n";
+        cout << "3. 2차원 배열 회전\n";
+        cout << "4. 종료\n";
+        cout << "입력 : ";
+        cin >> iInput;
+        switch(iInput)
+        {
+            case 1:
+                system("cls");
+                Lotto();
+                break;
+            case 2:
+                system("cls");
+                BaseBallGame();
+                break;
+            case 3:
+                system("cls");
+                RotateArray();
+                break;
+            case 4:
+                return;
+            default:
+                cout << "잘못된 입력입니다.\n";
+                break;
+        }
+    }
+}
