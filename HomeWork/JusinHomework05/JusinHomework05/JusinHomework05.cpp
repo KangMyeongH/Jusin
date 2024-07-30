@@ -12,7 +12,7 @@ void SetBaseBallNumber(int*);
 void BaseBallGame();
 
 void RotateArray();
-void CopyArray(int(*)[5], int(*)[5]);
+void CopyArray(int(*)[5], const int(*)[5]);
 
 void Menu();
 
@@ -22,7 +22,7 @@ int main()
     return 0;
 }
 
-void ArrayRender(const int (*pArray)[5],int iSize)
+void ArrayRender(const int (*pArray)[5], const int iSize)
 {
     for(int i = 0; i < iSize; i++)
     {
@@ -61,7 +61,9 @@ void SetLottoNumber(int(*pLottoNumber)[6], int iSize)
     mt19937 mt(randomDevice());
     uniform_int_distribution<int> dist(1,45);
     int randNum = 0;
+    
     // 같은 회차에 동일한 숫자가 없이 랜덤한 값을 넣어준다.
+    // 중복을 검사하는거 보다는 1~45 숫자 테이블을 만든 후 랜덤으로 숫자를 뽑아서 넣어주는게 더 효율적일 것 같다.
     for(int i = 0; i < iSize; i++)
     {
         for(int j = 0; j < 6; j++)
@@ -84,6 +86,7 @@ void SetLottoNumber(int(*pLottoNumber)[6], int iSize)
             }
         }
     }
+    
     // 버블 정렬을 이용하여 오름차순으로 정렬
     for(int i = 0; i < iSize; i++)
     {
@@ -91,12 +94,7 @@ void SetLottoNumber(int(*pLottoNumber)[6], int iSize)
         {
             for(int k = 0; k < j; k++)
             {
-                if(pLottoNumber[i][k] > pLottoNumber[i][k + 1])
-                {
-                    int temp = pLottoNumber[i][k];
-                    pLottoNumber[i][k] = pLottoNumber[i][k + 1];
-                    pLottoNumber[i][k + 1] = temp;
-                }
+                if(pLottoNumber[i][k] > pLottoNumber[i][k + 1]) swap(pLottoNumber[i][k], pLottoNumber[i][k + 1]);
             }
         }
     }
@@ -112,12 +110,12 @@ void SetLottoNumber(int(*pLottoNumber)[6], int iSize)
 - 총 9회까지 진행했는데 결국 3스트라이크 못만들 경우, 패배 출력 후 종료
  */
 
-void SetBaseBallNumber(int* pBaseballNumber, int iSize)
+void SetBaseBallNumber(int* pBaseballNumber, const int iSize)
 {
     random_device randomDevice;
     mt19937 mt(randomDevice());
-    uniform_int_distribution<int> dist(1,9);
-    int iRandNum = 0;
+    uniform_int_distribution<> dist(1,9);
+    int iRandNum;
     for(int i = 0; i < iSize; i++)
     {
         iRandNum = dist(mt);
@@ -189,6 +187,7 @@ void BaseBallGame()
 }
 
 //2차원 배열을 이용하여 90도 시계 방향으로 4회전 출력하기
+
 void RotateArray()
 {
     int iArray[5][5] = {{1,2,3,4,5},
@@ -197,7 +196,7 @@ void RotateArray()
                          {16,17,18,19,20},
                          {21,22,23,24,25}};
 
-    int iTempArray[5][5];
+    int iTempArray[5][5] = {};
     cout << "원본\n";
     cout << "=============================================\n";
     ArrayRender(iArray,5);
@@ -222,7 +221,7 @@ void RotateArray()
     system("pause");
 }
 
-void CopyArray(int(*pTemp)[5], int(*pOriginal)[5])
+void CopyArray(int(*pTemp)[5], const int(*pOriginal)[5])
 {
     for (int i = 0; i < 5; i++)
     {

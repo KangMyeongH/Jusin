@@ -1,23 +1,18 @@
 #include <iostream>
 
 using namespace std;
-void Render(int* pTable, int iSize)
+
+void Test(char* name)
 {
-    cout << sizeof(pTable) << endl; // 출력 값 4
     
-    for (int i = 0; i < iSize; i++)
-    {
-        cout << pTable[i] << " ";
-    }
-    cout << endl;
 }
 
 int main()
 {
-    int iArray[5] = { 1, 2, 3, 4, 5 };
-    cout << iArray;
-    cout << sizeof(iArray) << endl; // 출력 값 20
+    char name[128] = "ABCDEF";
+    char* pName = name;
 
-    Render(iArray, 5);
+    cout << &name << endl;
+    Test(name);
     return 0;
 }
