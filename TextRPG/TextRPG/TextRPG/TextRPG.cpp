@@ -21,6 +21,7 @@ void SelectJobMenu(Player*);
 void MainMenu(Player*);
 void SelectLevelMenu(Player*);
 void BattleMenu(Player*, Monster*);
+
 bool Battle(Player*, Monster*);
 void Attack(Player*, Monster*);
 
@@ -32,7 +33,7 @@ int main()
     Player player = {};
     SelectJobMenu(&player);
     MainMenu(&player);
-    
+
     return 0;
 }
 
@@ -122,7 +123,6 @@ void SelectLevelMenu(Player* player)
             system("pause");
             break;
         }
-        
     }
 }
 
@@ -152,7 +152,6 @@ void BattleMenu(Player* player, Monster* monster)
             system("pause");
             break;
         }
-        
     }
 }
 
