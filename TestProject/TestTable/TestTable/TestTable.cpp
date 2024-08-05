@@ -1,18 +1,12 @@
 #include <iostream>
-
 using namespace std;
-
-void Test(char* name)
-{
-    
-}
 
 int main()
 {
-    char name[128] = "ABCDEF";
-    char* pName = name;
+    const char* name[3] = {"도적", "전사", "마법사"};
 
-    cout << &name << endl;
-    Test(name);
+    const char** pName = new const char*[3] {"도적", "전사", "마법사"};
+
     return 0;
 }
+
