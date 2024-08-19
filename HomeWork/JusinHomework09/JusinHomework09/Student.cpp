@@ -9,7 +9,7 @@ Student::Student()
 	this->mMathScore = 0;
 }
 
-// 생성자
+// constructor
 Student::Student(const std::string& name, const int korScore, const int engScore, const int mathScore)
 {
 	mName = name;
@@ -17,7 +17,7 @@ Student::Student(const std::string& name, const int korScore, const int engScore
 	mEngScore = engScore;
 	mMathScore = mathScore;
 }
-// 복사 생성자
+// copy constructor
 Student::Student(const Student& student)
 {
 	mName = student.mName;
@@ -26,7 +26,7 @@ Student::Student(const Student& student)
 	mMathScore = student.mMathScore;
 }
 
-// 소멸자
+// destructor
 Student::~Student() = default;
 
 // getter
