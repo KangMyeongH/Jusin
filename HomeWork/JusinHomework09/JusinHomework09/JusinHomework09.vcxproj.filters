@@ -27,7 +27,7 @@
     <ClCompile Include="ReportCard.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="SaveStudentData.cpp">
+    <ClCompile Include="DataManager.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -41,7 +41,7 @@
     <ClInclude Include="ReportCard.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="SaveStudentData.h">
+    <ClInclude Include="DataManager.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

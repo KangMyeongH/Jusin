@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\HomeWork\\JusinHomework07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44D3603C-DA0D-40A7-8FD0-B0570D1CD62A}|JusinHomework07\\JusinHomework07.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\HomeWork\\JusinHomework07\\JusinHomework07\\JusinHomework07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44D3603C-DA0D-40A7-8FD0-B0570D1CD62A}|JusinHomework07\\JusinHomework07.vcxproj|solutionrelative:JusinHomework07\\JusinHomework07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JusinHomework07.cpp",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\HomeWork\\JusinHomework07\\JusinHomework07\\JusinHomework07.cpp",
+              "RelativeDocumentMoniker": "JusinHomework07\\JusinHomework07.cpp",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\HomeWork\\JusinHomework07\\JusinHomework07\\JusinHomework07.cpp",
+              "RelativeToolTip": "JusinHomework07\\JusinHomework07.cpp",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T04:22:38.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
