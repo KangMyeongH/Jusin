@@ -18,7 +18,7 @@ class Menu
 public:
 	Menu() : mMenuType(eMenuType::Default) 					{}
 	explicit Menu(const eMenuType type) : mMenuType(type) 	{}
-	virtual ~Menu();
+	virtual ~Menu() = 0;
 
 	eMenuType 	GetMenuType() const 					{ return mMenuType; }
 	void 		SetMenuType(const eMenuType menuType) 	{ mMenuType = menuType; }

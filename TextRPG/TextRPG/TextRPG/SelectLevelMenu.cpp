@@ -1,9 +1,8 @@
 #include "SelectLevelMenu.h"
 #include "Player.h"
+#include "EntityManager.h"
 
 #include <iostream>
-
-#include "EntityManager.h"
 
 void SelectLevelMenu::RenderMenu()
 {

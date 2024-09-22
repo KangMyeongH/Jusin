@@ -1,9 +1,8 @@
 #include "BattleFieldMenu.h"
-
-#include <iostream>
-
 #include "EntityManager.h"
 #include "Player.h"
+
+#include <iostream>
 
 void BattleFieldMenu::RenderMenu()
 {

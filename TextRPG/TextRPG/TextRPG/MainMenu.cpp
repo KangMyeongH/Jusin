@@ -1,8 +1,7 @@
 #include "MainMenu.h"
+#include "Player.h"
 
 #include <iostream>
-
-#include "Player.h"
 
 void MainMenu::RenderMenu()
 {

@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\TextRPG_Final.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\TextRPG_Final.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\EquipmentItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\EquipmentItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\EquipmentItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\EquipmentItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEFD1EFF-6032-4A0F-807A-C624CC5CF29B}|TextRPG_Final\\TextRPG_Final.vcxproj|solutionrelative:TextRPG_Final\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Object.h",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Object.h",
+              "RelativeDocumentMoniker": "TextRPG_Final\\Object.h",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Object.h",
+              "RelativeToolTip": "TextRPG_Final\\Object.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T07:32:02.687Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Object.cpp",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Object.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Final\\Object.cpp",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Object.cpp",
+              "RelativeToolTip": "TextRPG_Final\\Object.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T07:33:14.922Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\GameObject.h",
+              "RelativeDocumentMoniker": "TextRPG_Final\\GameObject.h",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\GameObject.h",
+              "RelativeToolTip": "TextRPG_Final\\GameObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T07:30:22.19Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\GameObject.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Final\\GameObject.cpp",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\GameObject.cpp",
+              "RelativeToolTip": "TextRPG_Final\\GameObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T07:32:26.963Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Component.h",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Component.h",
+              "RelativeDocumentMoniker": "TextRPG_Final\\Component.h",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Component.h",
+              "RelativeToolTip": "TextRPG_Final\\Component.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T07:32:20.577Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventory.h",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Inventory.h",
+              "RelativeDocumentMoniker": "TextRPG_Final\\Inventory.h",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Inventory.h",
+              "RelativeToolTip": "TextRPG_Final\\Inventory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T08:06:24.104Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inventory.cpp",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Inventory.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Final\\Inventory.cpp",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Inventory.cpp",
+              "RelativeToolTip": "TextRPG_Final\\Inventory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T08:07:54.6Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Item.h",
+              "RelativeDocumentMoniker": "TextRPG_Final\\Item.h",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Item.h",
+              "RelativeToolTip": "TextRPG_Final\\Item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T08:18:22.581Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EquipmentItem.cpp",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\EquipmentItem.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Final\\EquipmentItem.cpp",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\EquipmentItem.cpp",
+              "RelativeToolTip": "TextRPG_Final\\EquipmentItem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T04:39:36.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextRPG_Final.cpp",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\TextRPG_Final.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Final\\TextRPG_Final.cpp",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\TextRPG_Final.cpp",
+              "RelativeToolTip": "TextRPG_Final\\TextRPG_Final.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T07:25:22.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Weapon.cpp",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Weapon.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Final\\Weapon.cpp",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Weapon.cpp",
+              "RelativeToolTip": "TextRPG_Final\\Weapon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T11:20:43.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weapon.h",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Weapon.h",
+              "RelativeDocumentMoniker": "TextRPG_Final\\Weapon.h",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Weapon.h",
+              "RelativeToolTip": "TextRPG_Final\\Weapon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T11:17:49.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Player.h",
+              "RelativeDocumentMoniker": "TextRPG_Final\\Player.h",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Player.h",
+              "RelativeToolTip": "TextRPG_Final\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T04:50:40.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\pch.h",
+              "RelativeDocumentMoniker": "TextRPG_Final\\pch.h",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\pch.h",
+              "RelativeToolTip": "TextRPG_Final\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T10:34:51.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Component.cpp",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Component.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Final\\Component.cpp",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Component.cpp",
+              "RelativeToolTip": "TextRPG_Final\\Component.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T04:21:36.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\pch.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Final\\pch.cpp",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\pch.cpp",
+              "RelativeToolTip": "TextRPG_Final\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T10:44:51.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EquipmentItem.h",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\EquipmentItem.h",
+              "RelativeDocumentMoniker": "TextRPG_Final\\EquipmentItem.h",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\EquipmentItem.h",
+              "RelativeToolTip": "TextRPG_Final\\EquipmentItem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T04:35:06.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Monster.cpp",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Monster.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Final\\Monster.cpp",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Monster.cpp",
+              "RelativeToolTip": "TextRPG_Final\\Monster.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T10:44:07.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Item.cpp",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Item.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Final\\Item.cpp",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Item.cpp",
+              "RelativeToolTip": "TextRPG_Final\\Item.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T02:12:39.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Player.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Final\\Player.cpp",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Player.cpp",
+              "RelativeToolTip": "TextRPG_Final\\Player.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T07:56:40.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Monster.h",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Monster.h",
+              "RelativeDocumentMoniker": "TextRPG_Final\\Monster.h",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG_Final\\TextRPG_Final\\Monster.h",
+              "RelativeToolTip": "TextRPG_Final\\Monster.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T11:07:05.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

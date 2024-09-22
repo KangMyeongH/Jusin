@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  Component.cpp
+  EquipmentItem.cpp
+  GameObject.cpp
+  Inventory.cpp
+  Item.cpp
+  Object.cpp
+  Player.cpp
+  TextRPG_Final.cpp
+C:\Users\30449\OneDrive\바탕 화면\Jusin\TextRPG_Final\TextRPG_Final\GameObject.h(33,25): error C2248: 'Player::Player': private 멤버('Player' 클래스에서 선언)에 액세스할 수 없습니다.
+  (소스 파일 '/TextRPG_Final.cpp'을(를) 컴파일하는 중)
+      C:\Users\30449\OneDrive\바탕 화면\Jusin\TextRPG_Final\TextRPG_Final\Player.h(8,2):
+      'Player::Player' 선언을 참조하십시오.
+      C:\Users\30449\OneDrive\바탕 화면\Jusin\TextRPG_Final\TextRPG_Final\Player.h(5,7):
+      'Player' 선언을 참조하십시오.
+      C:\Users\30449\OneDrive\바탕 화면\Jusin\TextRPG_Final\TextRPG_Final\GameObject.h(33,25):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\30449\OneDrive\바탕 화면\Jusin\TextRPG_Final\TextRPG_Final\TextRPG_Final.cpp(19,8):
+          컴파일되는 함수 템플릿 인스턴스화 'void GameObject::AddComponent<Player>(void)'에 대한 참조를 확인하세요.
+  
+  코드를 생성하고 있습니다...
+C:\Users\30449\OneDrive\바탕 화면\Jusin\TextRPG_Final\TextRPG_Final\EquipmentItem.cpp(7,1): error C4716: 'EquipmentItem::Use': 값을 반환해야 합니다.

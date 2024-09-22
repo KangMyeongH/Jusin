@@ -66,7 +66,7 @@ bool Menu::SwitchMenu(Menu** menu)
 	{
 	case eMenuType::Default:
 		delete temp;
-		*menu = new Menu();
+		//*menu = new Menu();
 		return true;
 
 	case eMenuType::Start:

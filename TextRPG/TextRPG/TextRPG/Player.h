@@ -23,4 +23,3 @@ private:
 	Player& operator=(const Player& ref) 	{}
 	~Player() 								{}	
 };
-

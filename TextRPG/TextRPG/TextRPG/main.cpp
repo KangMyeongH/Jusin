@@ -12,10 +12,13 @@
 #endif
 #endif
 
+
 int main()
 {
 	MainGame* mainGame = new MainGame;
-
+	const char* Name;
+	Name = "Test";
+	Name = "End";
 	mainGame->Initialize();
 	mainGame->Update();
 

@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B1F443F8-2B40-4FAC-AD57-F6C8914D012F}|TestTable\\TestTable.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TestProject\\TestTable\\TestTable\\TestTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B1F443F8-2B40-4FAC-AD57-F6C8914D012F}|TestTable\\TestTable.vcxproj|solutionrelative:TestTable\\TestTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F443F8-2B40-4FAC-AD57-F6C8914D012F}|TestTable\\TestTable.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TestProject\\TestTable\\TestTable\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1F443F8-2B40-4FAC-AD57-F6C8914D012F}|TestTable\\TestTable.vcxproj|solutionrelative:TestTable\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "player.cpp",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TestProject\\TestTable\\TestTable\\player.cpp",
+              "RelativeDocumentMoniker": "TestTable\\player.cpp",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TestProject\\TestTable\\TestTable\\player.cpp",
+              "RelativeToolTip": "TestTable\\player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-23T06:28:17.433Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TestTable.cpp",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TestProject\\TestTable\\TestTable\\TestTable.cpp",
               "RelativeDocumentMoniker": "TestTable\\TestTable.cpp",
-              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TestProject\\TestTable\\TestTable\\TestTable.cpp*",
-              "RelativeToolTip": "TestTable\\TestTable.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TestProject\\TestTable\\TestTable\\TestTable.cpp",
+              "RelativeToolTip": "TestTable\\TestTable.cpp",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAYwKUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-05T10:55:39.078Z",
               "EditorCaption": ""
