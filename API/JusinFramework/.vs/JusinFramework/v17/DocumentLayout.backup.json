@@ -1,30 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\",
+  "WorkspaceRootPath": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\JusinFramework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\JusinFramework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\JusinFramework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\JusinFramework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\JusinFramework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\JusinFramework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\MainScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\MainScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\MainScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\MainScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8937B2B6-9A3A-4ED6-BEE0-86085674FFEA}|JusinFramework\\JusinFramework.vcxproj|solutionrelative:JusinFramework\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,85 +73,225 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 210,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainScene.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\MainScene.cpp",
+              "RelativeDocumentMoniker": "JusinFramework\\MainScene.cpp",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\MainScene.cpp",
+              "RelativeToolTip": "JusinFramework\\MainScene.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T17:10:28.194Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Core.h",
-              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\Core.h",
-              "RelativeDocumentMoniker": "JusinFramework\\Core.h",
-              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\Core.h",
-              "RelativeToolTip": "JusinFramework\\Core.h",
+              "Title": "Scene.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Scene.cpp",
+              "RelativeDocumentMoniker": "JusinFramework\\Scene.cpp",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Scene.cpp",
+              "RelativeToolTip": "JusinFramework\\Scene.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T13:05:05.079Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Core.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Core.cpp",
+              "RelativeDocumentMoniker": "JusinFramework\\Core.cpp",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Core.cpp",
+              "RelativeToolTip": "JusinFramework\\Core.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T06:35:33.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\GameObject.cpp",
+              "RelativeDocumentMoniker": "JusinFramework\\GameObject.cpp",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\GameObject.cpp",
+              "RelativeToolTip": "JusinFramework\\GameObject.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T07:25:27.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Player.cpp",
+              "RelativeDocumentMoniker": "JusinFramework\\Player.cpp",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Player.cpp",
+              "RelativeToolTip": "JusinFramework\\Player.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T16:45:02.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SceneManager.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\SceneManager.cpp",
+              "RelativeDocumentMoniker": "JusinFramework\\SceneManager.cpp",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\SceneManager.cpp",
+              "RelativeToolTip": "JusinFramework\\SceneManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T13:38:02.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JusinFramework.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\JusinFramework.cpp",
+              "RelativeDocumentMoniker": "JusinFramework\\JusinFramework.cpp",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\JusinFramework.cpp",
+              "RelativeToolTip": "JusinFramework\\JusinFramework.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T07:14:07.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainScene.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\MainScene.h",
+              "RelativeDocumentMoniker": "JusinFramework\\MainScene.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\MainScene.h",
+              "RelativeToolTip": "JusinFramework\\MainScene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-22T17:10:01.106Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Scene.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Scene.h",
+              "RelativeDocumentMoniker": "JusinFramework\\Scene.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Scene.h",
+              "RelativeToolTip": "JusinFramework\\Scene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-22T13:05:01.748Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\GameObject.h",
+              "RelativeDocumentMoniker": "JusinFramework\\GameObject.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\GameObject.h",
+              "RelativeToolTip": "JusinFramework\\GameObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-22T07:25:22.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Core.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Core.h",
+              "RelativeDocumentMoniker": "JusinFramework\\Core.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Core.h",
+              "RelativeToolTip": "JusinFramework\\Core.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-21T09:00:54.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "targetver.h",
-              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\targetver.h",
-              "RelativeDocumentMoniker": "JusinFramework\\targetver.h",
-              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\targetver.h",
-              "RelativeToolTip": "JusinFramework\\targetver.h",
+              "DocumentIndex": 15,
+              "Title": "Vector2.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Vector2.cpp",
+              "RelativeDocumentMoniker": "JusinFramework\\Vector2.cpp",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Vector2.cpp",
+              "RelativeToolTip": "JusinFramework\\Vector2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-21T08:30:03.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Resource.h",
-              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\Resource.h",
-              "RelativeDocumentMoniker": "JusinFramework\\Resource.h",
-              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\Resource.h",
-              "RelativeToolTip": "JusinFramework\\Resource.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-21T08:29:44.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JusinFramework.h",
-              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\JusinFramework.h",
-              "RelativeDocumentMoniker": "JusinFramework\\JusinFramework.h",
-              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\JusinFramework.h",
-              "RelativeToolTip": "JusinFramework\\JusinFramework.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-21T08:17:05.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "framework.h",
-              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\framework.h",
-              "RelativeDocumentMoniker": "JusinFramework\\framework.h",
-              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\framework.h",
-              "RelativeToolTip": "JusinFramework\\framework.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-21T07:16:11.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JusinFramework.cpp",
-              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\JusinFramework.cpp",
-              "RelativeDocumentMoniker": "JusinFramework\\JusinFramework.cpp",
-              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\API\\JusinFramework\\JusinFramework\\JusinFramework.cpp",
-              "RelativeToolTip": "JusinFramework\\JusinFramework.cpp",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-21T07:14:07.105Z",
+              "WhenOpened": "2024-09-22T17:02:59.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Player.h",
+              "RelativeDocumentMoniker": "JusinFramework\\Player.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Player.h",
+              "RelativeToolTip": "JusinFramework\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-22T16:44:49.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vector2.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Vector2.h",
+              "RelativeDocumentMoniker": "JusinFramework\\Vector2.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Vector2.h",
+              "RelativeToolTip": "JusinFramework\\Vector2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-22T16:31:02.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SceneManager.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\SceneManager.h",
+              "RelativeDocumentMoniker": "JusinFramework\\SceneManager.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\SceneManager.h",
+              "RelativeToolTip": "JusinFramework\\SceneManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-22T13:28:26.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Define.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Define.h",
+              "RelativeDocumentMoniker": "JusinFramework\\Define.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\API\\JusinFramework\\JusinFramework\\Define.h",
+              "RelativeToolTip": "JusinFramework\\Define.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-22T13:33:45.292Z",
               "EditorCaption": ""
             }
           ]

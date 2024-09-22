@@ -17,7 +17,8 @@
 // TODO : 여기에 사용할 define 추가
 #define WIN_WIDTH				800
 #define WIN_HEIGHT				600
-extern HWND gHWND;
+
+
 #ifndef IDC_STATIC
 #define IDC_STATIC				-1
 #endif

@@ -13,29 +13,83 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="00. Core">
+      <UniqueIdentifier>{d351cc61-f6c3-4cb3-aef6-5c5eadeffe82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. Core\00. Source">
+      <UniqueIdentifier>{a407aba8-b562-47b2-8fbf-244823cbdd09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. Core\01. Header">
+      <UniqueIdentifier>{60cbff4f-9d38-4854-86cf-00c6fb9b24e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. Core\02. WINAPI">
+      <UniqueIdentifier>{af6c0a68-79d1-4e66-8b99-ffc531d44fb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. Core\03. Manager">
+      <UniqueIdentifier>{558c8679-a816-4139-ac36-6ce1e33b3372}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="framework.h">
-      <Filter>헤더 파일</Filter>
+    <ClInclude Include="Core.h">
+      <Filter>00. Core\01. Header</Filter>
     </ClInclude>
-    <ClInclude Include="targetver.h">
-      <Filter>헤더 파일</Filter>
+    <ClInclude Include="GameObject.h">
+      <Filter>00. Core\01. Header</Filter>
     </ClInclude>
     <ClInclude Include="Resource.h">
-      <Filter>헤더 파일</Filter>
+      <Filter>00. Core\02. WINAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>00. Core\02. WINAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>00. Core\02. WINAPI</Filter>
     </ClInclude>
     <ClInclude Include="JusinFramework.h">
+      <Filter>00. Core\02. WINAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>00. Core\01. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>00. Core\01. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>00. Core\03. Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Core.h">
+    <ClInclude Include="Player.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainScene.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Core.cpp">
+      <Filter>00. Core\00. Source</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>00. Core\00. Source</Filter>
+    </ClCompile>
     <ClCompile Include="JusinFramework.cpp">
+      <Filter>00. Core\02. WINAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>00. Core\00. Source</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>00. Core\03. Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Core.cpp">
+    <ClCompile Include="Player.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainScene.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

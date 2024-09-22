@@ -4,14 +4,15 @@
 #include "framework.h"
 #include "JusinFramework.h"
 
+#include "Core.h"
+
 #define MAX_LOADSTRING 100
 
 // 전역 변수:
 HINSTANCE hInst;                                // 현재 인스턴스입니다.
 WCHAR szTitle[MAX_LOADSTRING];                  // 제목 표시줄 텍스트입니다.
 WCHAR szWindowClass[MAX_LOADSTRING];            // 기본 창 클래스 이름입니다.
-HWND gHWND;
-
+HWND g_hwnd;
 
 // 이 코드 모듈에 포함된 함수의 선언을 전달합니다:
 ATOM                MyRegisterClass(HINSTANCE hInstance);
@@ -46,7 +47,8 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
     msg.message = WM_NULL;
 
     // TODO : Main Game Init
-
+    Core core;
+    core.Init(g_hwnd);
 
     unsigned long long      llTime = GetTickCount64();
 
@@ -69,7 +71,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 	        if (llTime + 30 < GetTickCount64())
 	        {
 		        // TODO : Main Game update and render
-
+                core.Progress();
 
                 llTime = GetTickCount64();
 	        }
@@ -141,7 +143,7 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
       return FALSE;
    }
 
-   gHWND = hWnd;
+   g_hwnd = hWnd;
 
    ShowWindow(hWnd, nCmdShow);
    UpdateWindow(hWnd);
