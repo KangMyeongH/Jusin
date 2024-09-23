@@ -4,6 +4,12 @@
 
 #include "MainScene.h"
 
+SceneManager::~SceneManager()
+{
+	delete mCurrentScene;
+	delete mNextScene;
+}
+
 void SceneManager::Init()
 {
 	// TODO : 여기에 시작할 씬을 추가해줍니다.

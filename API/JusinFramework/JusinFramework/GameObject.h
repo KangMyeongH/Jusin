@@ -19,8 +19,11 @@ public:
 	virtual void LateUpdate() 		= 0;
 	virtual void Render(HDC hdc) 	= 0;
 
+	void SetRect();
+
 protected:
 	Tag 		mTag;
+	RECT		mRect;
 
 public:
 	Vector2 	Position;

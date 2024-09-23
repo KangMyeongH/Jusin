@@ -3,7 +3,7 @@
 
 Scene::~Scene()
 {
-	for (auto& gameObject : mGameObjects)
+	for (auto& gameObject : mActiveObjectList)
 	{
 		delete gameObject;
 		gameObject = nullptr;
@@ -17,11 +17,15 @@ void Scene::Init()
 
 void Scene::Start()
 {
+	if (mPendingObjectList.empty()) return;
+
 	for (auto& object : mPendingObjectList)
 	{
 		object->Start();
-		mActiveObjectList.push_back(object);
 	}
+
+	mActiveObjectList.insert(mActiveObjectList.end(), mPendingObjectList.begin(), mPendingObjectList.end());
+	mPendingObjectList.clear();
 }
 
 void Scene::Update()
@@ -40,7 +44,7 @@ void Scene::LateUpdate()
 	}
 }
 
-void Scene::Render(HDC hdc)
+void Scene::Render(HDC& hdc)
 {
 	for (const auto& object : mActiveObjectList)
 	{

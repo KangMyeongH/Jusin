@@ -22,7 +22,7 @@ void MainScene::LateUpdate()
 	Scene::LateUpdate();
 }
 
-void MainScene::Render(HDC hdc)
+void MainScene::Render(HDC& hdc)
 {
 	Scene::Render(hdc);
 }

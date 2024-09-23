@@ -47,8 +47,8 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
     msg.message = WM_NULL;
 
     // TODO : Main Game Init
-    Core core;
-    core.Init(g_hwnd);
+    Core* core = &Core::GetInstance();
+    core->Init(g_hwnd);
 
     unsigned long long      llTime = GetTickCount64();
 
@@ -71,7 +71,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 	        if (llTime + 30 < GetTickCount64())
 	        {
 		        // TODO : Main Game update and render
-                core.Progress();
+                core->Progress();
 
                 llTime = GetTickCount64();
 	        }

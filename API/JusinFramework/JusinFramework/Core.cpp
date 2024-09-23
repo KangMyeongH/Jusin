@@ -6,7 +6,7 @@ void Core::Init(HWND& hwnd)
 {
 	mHwnd = hwnd;
 	mHdc = GetDC(hwnd);
-	mSceneManager = new SceneManager;
+	mSceneManager = &SceneManager::GetInstance();
 	mSceneManager->Init();
 }
 
@@ -36,6 +36,5 @@ void Core::lateUpdate()
 void Core::render()
 {
 	Rectangle(mHdc, 0, 0, WIN_WIDTH, WIN_HEIGHT);
-	Rectangle(mHdc, 100, 100, WIN_WIDTH - 100, WIN_HEIGHT - 100);
 	mSceneManager->Render(mHdc);
 }

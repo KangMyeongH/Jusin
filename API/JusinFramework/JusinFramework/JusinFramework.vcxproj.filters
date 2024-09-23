@@ -22,11 +22,17 @@
     <Filter Include="00. Core\01. Header">
       <UniqueIdentifier>{60cbff4f-9d38-4854-86cf-00c6fb9b24e9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="00. Core\03. Manager">
+      <UniqueIdentifier>{558c8679-a816-4139-ac36-6ce1e33b3372}</UniqueIdentifier>
+    </Filter>
     <Filter Include="00. Core\02. WINAPI">
       <UniqueIdentifier>{af6c0a68-79d1-4e66-8b99-ffc531d44fb7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="00. Core\03. Manager">
-      <UniqueIdentifier>{558c8679-a816-4139-ac36-6ce1e33b3372}</UniqueIdentifier>
+    <Filter Include="01. Object">
+      <UniqueIdentifier>{ce367949-3ad7-4b05-81a6-2a393073771a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Scene">
+      <UniqueIdentifier>{81664901-3d8e-4556-a13e-8e39fc105d54}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -58,13 +64,16 @@
       <Filter>00. Core\03. Manager</Filter>
     </ClInclude>
     <ClInclude Include="Vector2.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Player.h">
-      <Filter>헤더 파일</Filter>
+      <Filter>00. Core\01. Header</Filter>
     </ClInclude>
     <ClInclude Include="MainScene.h">
-      <Filter>헤더 파일</Filter>
+      <Filter>02. Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>01. Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>01. Object</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -84,13 +93,16 @@
       <Filter>00. Core\03. Manager</Filter>
     </ClCompile>
     <ClCompile Include="Vector2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Player.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>00. Core\00. Source</Filter>
     </ClCompile>
     <ClCompile Include="MainScene.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>02. Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>01. Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>01. Object</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -5,7 +5,7 @@
 class SceneManager;
 class Core
 {
-public:
+private:
 	Core() 								= default;
 	~Core() 							= default;
 public:
@@ -14,8 +14,7 @@ public:
 	Core& operator=(const Core& rhs) 	= delete;
 	Core& operator=(Core&& rhs) 		= delete;
 
-	//static Core& GetInstance() { static Core sCore; return sCore; }
-
+	static Core& GetInstance() { static Core sCore; return sCore; }
 public:
 	void 		Init(HWND& hwnd);
 	void 		Progress();

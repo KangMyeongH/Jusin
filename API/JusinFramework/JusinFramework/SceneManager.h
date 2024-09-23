@@ -6,19 +6,18 @@
 #include "Define.h"
 
 class Scene;
-using SceneList = std::vector<Scene*>;
 class SceneManager
 {
-public:
+private:
 	SceneManager() 									= default;
-	~SceneManager() 								= default;
+	~SceneManager();
 public:
 	SceneManager(const SceneManager&) 				= delete;
 	SceneManager(SceneManager&&) 					= delete;
 	SceneManager& operator=(const SceneManager&) 	= delete;
 	SceneManager& operator=(SceneManager&&) 		= delete;
 
-	//static SceneManager& GetInstance() { static SceneManager sSceneManager; return sSceneManager; }
+	static SceneManager& GetInstance() { static SceneManager sSceneManager; return sSceneManager; }
 
 	void 		Init();
 	void		Start();
