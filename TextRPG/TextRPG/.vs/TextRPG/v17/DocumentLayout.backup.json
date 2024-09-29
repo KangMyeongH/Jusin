@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\BattleFieldMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\BattleFieldMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\EndMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\EndMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\StartMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\StartMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\SelectLevelMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\SelectLevelMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\MainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\MainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\EndMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\EndMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\BattleFieldMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\BattleFieldMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,20 +75,8 @@
       "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\BattleFieldMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\BattleFieldMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\SelectLevelMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -67,40 +95,12 @@
       "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\StartMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\StartMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\StartMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\EndMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\EndMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\EndMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\EndMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\MainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\MainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\JobMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\JobMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\JobMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\JobMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\SelectLevelMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\SelectLevelMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\BattleFieldMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D661128-B770-457D-BAE5-F2D1944FAAC1}|TextRPG\\TextRPG.vcxproj|solutionrelative:TextRPG\\BattleFieldMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,23 +110,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 183,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EntityManager.h",
-              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\EntityManager.h",
-              "RelativeDocumentMoniker": "TextRPG\\EntityManager.h",
-              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\EntityManager.h",
-              "RelativeToolTip": "TextRPG\\EntityManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-21T03:59:38.279Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Menu.h",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Menu.h",
               "RelativeDocumentMoniker": "TextRPG\\Menu.h",
@@ -134,11 +122,12 @@
               "RelativeToolTip": "TextRPG\\Menu.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-20T07:32:35.163Z"
+              "WhenOpened": "2024-08-20T07:32:35.163Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Menu.cpp",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Menu.cpp",
               "RelativeDocumentMoniker": "TextRPG\\Menu.cpp",
@@ -146,11 +135,12 @@
               "RelativeToolTip": "TextRPG\\Menu.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-20T07:37:51.688Z"
+              "WhenOpened": "2024-08-20T07:37:51.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Monster.cpp",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Monster.cpp",
               "RelativeDocumentMoniker": "TextRPG\\Monster.cpp",
@@ -162,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Monster.h",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Monster.h",
               "RelativeDocumentMoniker": "TextRPG\\Monster.h",
@@ -174,33 +164,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Entity.h",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Entity.h",
               "RelativeDocumentMoniker": "TextRPG\\Entity.h",
               "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Entity.h",
               "RelativeToolTip": "TextRPG\\Entity.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-21T05:36:36.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Entity.cpp",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Entity.cpp",
               "RelativeDocumentMoniker": "TextRPG\\Entity.cpp",
               "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Entity.cpp",
               "RelativeToolTip": "TextRPG\\Entity.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-22T13:16:54.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Player.cpp",
               "RelativeDocumentMoniker": "TextRPG\\Player.cpp",
@@ -213,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\Player.h",
               "RelativeDocumentMoniker": "TextRPG\\Player.h",
@@ -226,19 +216,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "BattleFieldMenu.cpp",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\BattleFieldMenu.cpp",
               "RelativeDocumentMoniker": "TextRPG\\BattleFieldMenu.cpp",
               "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\BattleFieldMenu.cpp",
               "RelativeToolTip": "TextRPG\\BattleFieldMenu.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-21T05:31:27.29Z"
+              "WhenOpened": "2024-08-21T05:31:27.29Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "EndMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\EndMenu.cpp",
+              "RelativeDocumentMoniker": "TextRPG\\EndMenu.cpp",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\EndMenu.cpp",
+              "RelativeToolTip": "TextRPG\\EndMenu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T05:31:38.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EntityManager.h",
+              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\EntityManager.h",
+              "RelativeDocumentMoniker": "TextRPG\\EntityManager.h",
+              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\EntityManager.h",
+              "RelativeToolTip": "TextRPG\\EntityManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-21T03:59:38.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "EntityManager.cpp",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\EntityManager.cpp",
               "RelativeDocumentMoniker": "TextRPG\\EntityManager.cpp",
@@ -250,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "SelectLevelMenu.cpp",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\SelectLevelMenu.cpp",
               "RelativeDocumentMoniker": "TextRPG\\SelectLevelMenu.cpp",
@@ -262,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "MainGame.h",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\MainGame.h",
               "RelativeDocumentMoniker": "TextRPG\\MainGame.h",
@@ -274,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "MainGame.cpp",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\MainGame.cpp",
               "RelativeDocumentMoniker": "TextRPG\\MainGame.cpp",
@@ -286,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\main.cpp",
               "RelativeDocumentMoniker": "TextRPG\\main.cpp",
@@ -294,12 +310,11 @@
               "RelativeToolTip": "TextRPG\\main.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-22T13:17:22.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T13:17:22.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "StartMenu.cpp",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\StartMenu.cpp",
               "RelativeDocumentMoniker": "TextRPG\\StartMenu.cpp",
@@ -311,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
               "Title": "StartMenu.h",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\StartMenu.h",
               "RelativeDocumentMoniker": "TextRPG\\StartMenu.h",
@@ -319,35 +334,38 @@
               "RelativeToolTip": "TextRPG\\StartMenu.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-20T11:29:03.289Z"
+              "WhenOpened": "2024-08-20T11:29:03.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 9,
               "Title": "MainMenu.cpp",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\MainMenu.cpp",
               "RelativeDocumentMoniker": "TextRPG\\MainMenu.cpp",
               "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\MainMenu.cpp",
               "RelativeToolTip": "TextRPG\\MainMenu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-21T06:53:12.334Z"
+              "WhenOpened": "2024-08-21T06:53:12.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 7,
               "Title": "SelectLevelMenu.h",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\SelectLevelMenu.h",
               "RelativeDocumentMoniker": "TextRPG\\SelectLevelMenu.h",
               "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\SelectLevelMenu.h",
               "RelativeToolTip": "TextRPG\\SelectLevelMenu.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-20T11:14:19.504Z"
+              "WhenOpened": "2024-08-20T11:14:19.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 8,
               "Title": "MainMenu.h",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\MainMenu.h",
               "RelativeDocumentMoniker": "TextRPG\\MainMenu.h",
@@ -355,11 +373,12 @@
               "RelativeToolTip": "TextRPG\\MainMenu.h",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-21T05:35:05.481Z"
+              "WhenOpened": "2024-08-21T05:35:05.481Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "JobMenu.h",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\JobMenu.h",
               "RelativeDocumentMoniker": "TextRPG\\JobMenu.h",
@@ -371,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "JobMenu.cpp",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\JobMenu.cpp",
               "RelativeDocumentMoniker": "TextRPG\\JobMenu.cpp",
@@ -383,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "EndMenu.h",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\EndMenu.h",
               "RelativeDocumentMoniker": "TextRPG\\EndMenu.h",
@@ -391,23 +410,12 @@
               "RelativeToolTip": "TextRPG\\EndMenu.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-21T05:31:40.512Z"
+              "WhenOpened": "2024-08-21T05:31:40.512Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EndMenu.cpp",
-              "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\EndMenu.cpp",
-              "RelativeDocumentMoniker": "TextRPG\\EndMenu.cpp",
-              "ToolTip": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\EndMenu.cpp",
-              "RelativeToolTip": "TextRPG\\EndMenu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-21T05:31:38.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 11,
               "Title": "BattleFieldMenu.h",
               "DocumentMoniker": "C:\\Users\\30449\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Jusin\\TextRPG\\TextRPG\\TextRPG\\BattleFieldMenu.h",
               "RelativeDocumentMoniker": "TextRPG\\BattleFieldMenu.h",
@@ -415,7 +423,8 @@
               "RelativeToolTip": "TextRPG\\BattleFieldMenu.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-21T05:31:35.808Z"
+              "WhenOpened": "2024-08-21T05:31:35.808Z",
+              "EditorCaption": ""
             }
           ]
         }

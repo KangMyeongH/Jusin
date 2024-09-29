@@ -148,6 +148,7 @@ private:
 	int mNum;
 };*/
 
+/*
 class Item
 {
 public:
@@ -204,15 +205,11 @@ private:
 	vector<Item*> mInventory;
 };
 
+*/
 int main()
 {
+	int* temp = new int;
+
 	_CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF);
-	vector<Item*> inventory;
-	Item* weapon = new Weapon;
-	Item* armor = new Armor;
-
-	inventory.push_back(weapon->Clone());
-	inventory.push_back(armor->Clone());
-
 	return 0;
 }
