@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DDingHo\\Jusin\\D3D9Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Device.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\Device.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\ImGuiManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\ImGuiManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\ImGuiManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\ImGuiManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\D3D9Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\D3D9Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\Device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\D3D9Project.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\D3D9Project.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\imstb_rectpack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\imstb_rectpack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\imstb_textedit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\imstb_textedit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\imstb_truetype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\imstb_truetype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C08A0B4-7782-4654-9C3E-90BD45DD2DB0}|D3D9Project\\D3D9Project.vcxproj|solutionrelative:D3D9Project\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Device.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Device.cpp",
+              "RelativeDocumentMoniker": "D3D9Project\\Device.cpp",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Device.cpp",
+              "RelativeToolTip": "D3D9Project\\Device.cpp",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAIwIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T10:40:42.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Core.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Core.cpp",
+              "RelativeDocumentMoniker": "D3D9Project\\Core.cpp",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Core.cpp",
+              "RelativeToolTip": "D3D9Project\\Core.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T03:33:12.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImGuiManager.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\ImGuiManager.h",
+              "RelativeDocumentMoniker": "D3D9Project\\ImGuiManager.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\ImGuiManager.h",
+              "RelativeToolTip": "D3D9Project\\ImGuiManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T03:24:52.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "D3D9Project.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\D3D9Project.h",
+              "RelativeDocumentMoniker": "D3D9Project\\D3D9Project.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\D3D9Project.h",
+              "RelativeToolTip": "D3D9Project\\D3D9Project.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T03:23:39.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Define.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Define.h",
+              "RelativeDocumentMoniker": "D3D9Project\\Define.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Define.h",
+              "RelativeToolTip": "D3D9Project\\Define.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T10:41:16.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Device.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Device.h",
+              "RelativeDocumentMoniker": "D3D9Project\\Device.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Device.h",
+              "RelativeToolTip": "D3D9Project\\Device.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T10:39:43.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pch.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\pch.h",
+              "RelativeDocumentMoniker": "D3D9Project\\pch.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\pch.h",
+              "RelativeToolTip": "D3D9Project\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T03:28:48.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Core.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Core.h",
+              "RelativeDocumentMoniker": "D3D9Project\\Core.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\Core.h",
+              "RelativeToolTip": "D3D9Project\\Core.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T03:31:17.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "imstb_rectpack.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\imstb_rectpack.h",
+              "RelativeDocumentMoniker": "D3D9Project\\imstb_rectpack.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\imstb_rectpack.h",
+              "RelativeToolTip": "D3D9Project\\imstb_rectpack.h",
+              "ViewState": "AgIAANAAAAAAAAAAAAAAAOUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T03:19:34.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "imstb_textedit.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\imstb_textedit.h",
+              "RelativeDocumentMoniker": "D3D9Project\\imstb_textedit.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\imstb_textedit.h",
+              "RelativeToolTip": "D3D9Project\\imstb_textedit.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T03:19:33.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "framework.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\framework.h",
+              "RelativeDocumentMoniker": "D3D9Project\\framework.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\framework.h",
+              "RelativeToolTip": "D3D9Project\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T10:41:39.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "imstb_truetype.h",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\imstb_truetype.h",
+              "RelativeDocumentMoniker": "D3D9Project\\imstb_truetype.h",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\imstb_truetype.h",
+              "RelativeToolTip": "D3D9Project\\imstb_truetype.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T03:19:32.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\pch.cpp",
+              "RelativeDocumentMoniker": "D3D9Project\\pch.cpp",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\pch.cpp",
+              "RelativeToolTip": "D3D9Project\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T10:43:01.969Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "imgui.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\imgui.cpp",
+              "RelativeDocumentMoniker": "D3D9Project\\imgui.cpp",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\imgui.cpp",
+              "RelativeToolTip": "D3D9Project\\imgui.cpp",
+              "ViewState": "AgIAAE5YAAAAAAAAAAAnwIxYAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T03:41:14.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "D3D9Project.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\D3D9Project.cpp",
+              "RelativeDocumentMoniker": "D3D9Project\\D3D9Project.cpp",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\D3D9Project.cpp",
+              "RelativeToolTip": "D3D9Project\\D3D9Project.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAIcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T10:39:13.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImGuiManager.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\ImGuiManager.cpp",
+              "RelativeDocumentMoniker": "D3D9Project\\ImGuiManager.cpp",
+              "ToolTip": "D:\\DDingHo\\Jusin\\D3D9Project\\D3D9Project\\ImGuiManager.cpp",
+              "RelativeToolTip": "D3D9Project\\ImGuiManager.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAFEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T03:24:55.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
